@@ -1,0 +1,85 @@
+/* CSS files andd styling rules to your content */
+body {
+  margin: 0px;
+  font-family: "Raleway", sans-serif;
+}
+button {
+  font-family: 'Oswald', sans-serif;
+}
+.bg-light{
+  background-color: rgba(0,153,0,0.2)!important;
+}
+.navbar {
+  padding: 0rem 1rem;
+  margin: 15px;
+}
+.cover {
+  height: 400px;
+  background-image: url(https://cdn.glitch.global/f93c760a-63fa-44d4-9b67-87b0fed6fb8c/rsz_azzedine-rouichi-no6miqzvq5o-unsplash.jpg?v=1651763495462);
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  background-blend-mode: darken;
+  margin: 15px;
+  
+
+  color: white;
+}
+.logo1 {
+  height: 90px;
+}
+.logo2 {
+  height: 250px;
+}
+.card {
+  border: 0 !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  margin: 15px;
+}
+.card-img-top-1 {
+  height: 220px;
+  background-image: url(https://cdn.glitch.global/f93c760a-63fa-44d4-9b67-87b0fed6fb8c/rsz_1kal-visuals-8fs2u-4skrs-unsplash.jpg?v=1651763743106);
+  background-size: cover;
+  background-position: center;
+}
+.card-img-top-2 {
+  height: 220px;
+  background-image: url(https://cdn.glitch.global/f93c760a-63fa-44d4-9b67-87b0fed6fb8c/rsz_hristina-satalova-7ssmdl_ejw8-unsplash.jpg?v=1651780138968);
+  background-size: cover;
+  background-position: center;
+}
+.card-img-top-3 {
+  height: 220px;
+  background-image: url(https://cdn.glitch.global/f93c760a-63fa-44d4-9b67-87b0fed6fb8c/rsz_1micheile-dot-com-lz_4npfkcv8-unsplash.jpg?v=1652036145683);
+  background-size: cover;
+  background-position: center;
+}
+.card-img-top-4 {
+  height: 220px;
+  background-image: url(https://cdn.glitch.global/f93c760a-63fa-44d4-9b67-87b0fed6fb8c/rsz_1element5-digital-oycl7y4y0bk-unsplash.jpg?v=1652036588861);
+  background-size: cover;
+  background-position: center;
+}
+.card-img-top-5 {
+  height: 220px;
+  background-image: url(https://cdn.glitch.global/f93c760a-63fa-44d4-9b67-87b0fed6fb8c/rsz_julia-zyablova-s1v7hvuicg0-unsplash.jpg?v=1652036932484);
+  background-size: cover;
+  background-position: center;
+}
+.card-img-top-6 {
+  height: 220px;
+  background-image: url(https://cdn.glitch.global/f93c760a-63fa-44d4-9b67-87b0fed6fb8c/rsz_alan-de-la-cruz-3irpfkfb0o0-unsplash.jpg?v=1652038663586);
+  background-size: cover;
+  background-position: center;
+}
+.card-title {
+  min-height: 3rem;
+  font-family: "Orelega One", cursive;
+}
+.card-text {
+  min-height: 10rem;
+}
+.btn{
+  font-family: 'Oswald', sans-serif;
+}
